@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm Tien, a university student in the Le Quy Don Technical University in VietNam.
 
