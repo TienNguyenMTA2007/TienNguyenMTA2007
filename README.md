@@ -6,6 +6,7 @@ I'm interested in material and the ways it interact with each other. By the way,
 
 This is a fresh profile where i'll be uploading some smaller projects, experiments, and things i'm currently working on. Everything
 which is public in here is no copyright so u can use it for your own plan.
+
 ---
 ## Tool & Tech
 * Notepad++, Visual Studio Code for Code
