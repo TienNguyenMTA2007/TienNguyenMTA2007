@@ -11,6 +11,7 @@ which is public in here is no copyright so u can use it for your own plan.
 ## Tool & Tech
 * Notepad++, Visual Studio Code for Code
 * Gimp, Corel for 2D & 3D animations
+* Origin for plot and datas
 ---
 ## A Bit About Me
 * My hobby is chess, I usually play chess everyday 💖.
